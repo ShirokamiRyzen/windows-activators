@@ -16,8 +16,8 @@ A Windows and Office activator using HWID / KMS38 / Online KMS activation method
 -   That's all.
 
 ```
-Latest Version: 1.6
-Release date: 25-July-2022
+Latest Version: 1.7
+Release date: 25-November-2022
 ```
 
 ### For more details, check Homepage:  https://massgrave.dev/
