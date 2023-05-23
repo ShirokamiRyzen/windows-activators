@@ -11,7 +11,7 @@ A Windows and Office activator using HWID / KMS38 / Online KMS activation method
 -   Copy-paste the below code and press enter\
     `irm ryzn.site/kms | iex`
     or
-    `irm https://ryzn.my.id/kms | iex`
+    `irm https://ryzn.site/kms | iex`
 -   You will see the activation options, and follow onscreen instructions.
 -   That's all.
 
